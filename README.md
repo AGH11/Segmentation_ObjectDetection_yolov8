@@ -51,7 +51,7 @@ The repository structure contains the following:
 
 - `data` directory: Contains input images and videos.
 - Detected images and videos generated from the notebooks are available in the main folder.
-- `football-player segmented photos` directiry: Example of football-player segmented photos.
+- `football-player segmented photos` directory: Example of football-player segmented photos.
 ## Usage
 
 1. Clone the YOLOv8 repository.
