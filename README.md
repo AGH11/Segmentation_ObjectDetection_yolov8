@@ -60,4 +60,3 @@ The repository structure contains the following:
 4. Run the notebooks to perform object detection and segmentation tasks using YOLOv8.
 
 Feel free to explore and modify the provided notebooks as needed.
-```
